@@ -6,12 +6,11 @@ Algumas das atividades realizadas durante as aulas de Fundamentos de programaç�
 
 
 
-
-TODOS OS CODIGOS DEVEM SEGUIR A SEGUINTE LINHA DE COMPILACAO
+Todos os códigos devem seguir a seguinte linha de compilação:
 gcc -Wall -pedantic -o <nome do executavel desejado>.exe <nome dos codigos fontes> -lpthread
 
-NENHUM CODIGO PODE TER WARNINGs OU ERRORs [zero automatico]
+Nenhum código pode ter warnings ou erros
+  
+Nenhum código pode ter variável global
 
-NENHUM CODIGO PODE TER VARIAVEL GLOBAL [zero automatico]
-
-NENHUM CODIGO PODE TER BUSY-WAIT [zero automatico]
+Nenhum código pode ter busy-wait
